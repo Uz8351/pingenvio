@@ -1,0 +1,36 @@
+/*
+*****************************
+PING EN ANSI C, BAJO LINUX.
+****************************
+otroping.c
+Modified parameters and part of the original code in:
+https://github.com/kjh1007
+*****************************************************
+Hilario Iglesias Martinez
+*****************************************************
+El ejemplo lo forman, el ejecutable con main otroping.c
+y otroping.h, los dos ficheros deberán estar bajo
+el mismo directorio.
+
+COMPILAR.
+$ gcc otroping.c -o otroping
+****************************************************
+EJECUTAR COMO USUARIO ROOT.
+sudo ./otroping [www.mipagina.com, o Mi IP]
+***************************************
+
+ICMP, el Protocolo de control de mensajes de Internet (Control Message Protocol ).
+Un protocolo de la capa de red, utilizado habitualmente para obtener información
+de conexión de un host determinado. Consiguiendo así, en las señales de retorno,
+basicamente la situación activa o inactiva del host.
+
+***************************************************************************
+Se ejecutará bajo consola Linux, y con privilegios de ROOT.
+Fue adaptado y realizado en plataforma LINUX Ubuntu 20.04.4 LTS.
+Bajo el standard ANSI C.-C-11
+*********************************************************************
+
+
+
+
+
